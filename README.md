@@ -16,6 +16,6 @@ de ferramentas de build para obtenção de dependências, execução de sistemas
 * Pratica_02
 
 ```
-Nessa atividade foi desenvolvido um projeto java com gradle utilizando ao metodo 
+Nessa atividade foi desenvolvido um projeto java com gradle utilizando o metodo 
 (TDD – Test Driven Development) com análise de valores limites.
 ```
